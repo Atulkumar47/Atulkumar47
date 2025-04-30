@@ -1,16 +1,46 @@
-## Hi there 👋
+# 👋 Hi, I'm Atul Kumar jayant
 
-<!--
-**Atulkumar47/Atulkumar47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📧 [atulkumar00447@gmail.com](mailto:atulkumar00447@gmail.com) | 📍 Baghpat, India  
+💻 B.Tech Computer Science, UPES University (2022–2026)  
+📚 Passionate about C/C++, Java, SQL & Software Development
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+
+### 💸 Expense Tracker  
+A Java-based personal finance app that helps users manage daily expenses, categorize spending, and analyze financial trends.  
+**Tech Stack:** Java, Swing, SQL, CSS
+
+---
+
+## 🧠 Skills
+
+- **Languages:** C, C++, Java, HTML  
+- **Tools & Platforms:** Git, VS Code  
+- **Databases:** SQL
+
+---
+
+## 🎓 Certifications
+
+- [AWS Academy Introduction to Cloud – Credly](https://www.credly.com/go/jTUi5WEw)
+- [AWS Academy Cloud Architecting – Credly](https://www.credly.com/go/57TEJzKa)
+
+---
+
+## 🌱 Currently Learning
+
+- LALR parsers and compiler design in C
+- Advanced Java & backend development
+
+---
+
+## 📌 Let's Connect!
+
+📫 Email: [atulkumar00447@gmail.com](mailto:atulkumar00447@gmail.com)  
+📱 Phone: +91 9520116800  
+
+---
+
+*“Building efficient code, one line at a time.”*
